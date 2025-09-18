@@ -1,2 +1,5 @@
 print("sunit")
 print ("tanish")
+print("tanisha")
+print("pari")
+print("hello india")
